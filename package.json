@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"version": "1.0.0",
-	"description": "This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/",
+	"description": "This is me learning package.json",
 	"keywords": [],
 	"homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
 	"bugs": {
