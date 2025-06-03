@@ -19,8 +19,8 @@
 		"start": "node server.js"
 	},
 	"dependencies": {
-    "package-name":"@freecodecamp/example",
-    "express": "1.1.0"
+    "@freecodecamp/example":"~1.2.x",
+    "express": "^4.14.0"
 	},
 	"devDependencies": {},
   "engines": {
