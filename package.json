@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"version": "1.0.0",
 	"description": "This is me learning package.json",
-	"keywords": [],
+	"keywords": ["freeCodeCamp","by","Rithik"],
 	"homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
 	"bugs": {
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
